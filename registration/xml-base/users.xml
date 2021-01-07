@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <login>el</login>
+        <email>el.ru</email>
+        <name>el</name>
+        <salt>e7bc00b3de</salt>
+        <password_hash>1161513944ff2b076905d06ff7840c8d</password_hash>
+        <cookie_key>4baf252972e31c6dfcf5</cookie_key>
+        <session_key>b6e361fd647dfdbbc8a7</session_key>
+    </user>
+</users>
